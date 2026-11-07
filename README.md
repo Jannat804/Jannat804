@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/coding-room.png" width="650"/>
+  <img src="images/coding-room.png" width="650" alt="My coding setup"/>
 </p>
 
 <p align="center">

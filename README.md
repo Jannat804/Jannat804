@@ -1,111 +1,97 @@
-# ⋆｡°✩ Hey, I'm Jannat Fatima! ✩°｡⋆
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1000&color=D8B4FE&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%F0%9F%8E%80;FAST-NUCES+%7C+Lahore;Aspiring+Software+Engineer+%F0%9F%92%9C;Learning+%E2%80%A2+Creating+%E2%80%A2+Growing+%E2%9C%A8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="./coding-room.png" width="650" alt="My coding setup"/>
-</p>
+# ୨୧ Jannat Fatima
 
-<p align="center">
-  <b>Software Engineering Student @ FAST-NUCES</b>
-  <br>
-  C++ • Python • Web Development • Data Structures
-</p>
+### Software Engineering Student · Aspiring Developer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-Student-cdb4f6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAST--NUCES-Lahore-f4b8d5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Learning-b9a0e8?style=for-the-badge"/>
-</p>
+*Learning, building and creating something meaningful.*
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=C5A1E8&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;C%2B%2B+%7C+Python+%7C+Web+Development;Always+learning+something+new+%E2%9C%A8" />
 
-### 💜 A Little About Me
+<br/>
 
-Hey! I'm Jannat, a Software Engineering student at **FAST – National University of Computer and Emerging Sciences, Lahore**.
+<img src="./coding-room.png" width="85%" alt="My coding workspace"/>
 
-I love exploring technology, creating projects, solving programming problems and learning how software works behind the scenes.
+<br/>
 
-- 🎓 Software Engineering student at FAST-NUCES
-- 💻 Working with C++ and Python
-- 🌷 Exploring HTML, CSS and JavaScript
-- 📚 Currently learning Data Structures
-- 🛠️ Building university and personal projects
-- 🎀 Interested in software development and creative ideas
+[![GitHub](https://img.shields.io/badge/GitHub-Jannat804-CDB4F6?style=flat-square&logo=github&logoColor=white)](https://github.com/Jannat804)
+![Student](https://img.shields.io/badge/FAST--NUCES-Student-F4B8D5?style=flat-square)
 
-### 🪻 Languages & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-BFA2DB?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-CDB4F6?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-F4B8D5?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-D8B4FE?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-E6B8D5?style=flat-square&logo=javascript&logoColor=white"/>
-</p>
-
-### 🧸 Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,figma&theme=dark" />
-</p>
-
-### 📖 Currently Exploring
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-In%20Progress-CDB4F6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-Learning-F4B8D5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web%20Development-Exploring-BFA2DB?style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
-### 💻 A Few Things I've Built
+## ୨୧ About Me
 
-**🎮 Pacman Game**  
-A Programming Fundamentals project based on the classic Pacman game.
+Hello! I'm Jannat, a Software Engineering student at **FAST-NUCES, Lahore**.
 
-**💰 Auction System**  
-A C++ university project developed for Object-Oriented Programming.
+I'm passionate about technology, problem-solving and turning ideas into functional projects. Currently exploring different areas of software development and continuously improving my skills.
 
-**📷 Barcode Scanner**  
-A team project: a C++ desktop application for generating barcodes, uploading and decoding barcode images, and scanning through a PC camera.
-
-**🌐 Web Development Project**  
-A website project exploring front-end development and web technologies.
+- 🎓 Software Engineering @ FAST-NUCES
+- 💻 Programming with C++ and Python
+- 🌷 Exploring Frontend Development
+- 📚 Learning Data Structures & Algorithms
+- ✨ Interested in building creative software solutions
 
 ---
 
-### 📊 My GitHub Corner
+## ୨୧ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jannat804&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jannat804&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jannat804&theme=midnight-purple&hide_border=true&border_radius=15"/>
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js&theme=light" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,figma&theme=light" />
+
+</div>
 
 ---
 
-### 💌 Find Me Here
+## ୨୧ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Jannat804">
-    <img src="https://img.shields.io/badge/GitHub-Jannat804-CDB4F6?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+| Project | Description |
+|:--|:--|
+| 🎮 **Pacman Game** | A classic Pacman-inspired game built as a Programming Fundamentals project. |
+| 💰 **Auction System** | A C++ application developed using Object-Oriented Programming concepts. |
+| 📷 **Barcode Scanner** | A desktop application for barcode generation, image decoding and camera-based scanning. |
+| 🌐 **Web Development** | Exploring frontend technologies through website development. |
 
-<p align="center">
-  <i>୨୧ Thanks for stopping by! Keep creating and keep growing. ♡</i>
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8B4FE,50:F4B8D5,100:CDB4F6&height=110&section=footer"/>
-</p>
+## ୨୧ Currently Learning
+
+- Data Structures & Algorithms
+- Problem Solving
+- Frontend Development
+- Writing cleaner and more efficient code
+
+---
+
+## ୨୧ GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jannat804&show_icons=true&theme=default&title_color=B18ACD&icon_color=C59AD9&text_color=777777&bg_color=FFFAFD&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jannat804&layout=compact&theme=default&title_color=B18ACD&text_color=777777&bg_color=FFFAFD&hide_border=true"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Jannat804&theme=default&ring=C5A1E8&fire=F4B8D5&currStreakLabel=B18ACD&sideLabels=999999&hide_border=true&background=FFFAFD"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ୨୧ Thanks for visiting my little corner of GitHub!
+
+*Building my skills, one project at a time.*
+
+♡ Keep learning. Keep creating. ♡
+
+</div>

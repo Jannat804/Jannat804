@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://img.shields.io/badge/୨୧-HELLO%20THERE%20୨୧-CDB4F6?style=for-the-badge"/>
+  <br>
+  <i>♡ A little world of code, creativity & lavender dreams ♡</i>
 </p>
 
 <p align="center">

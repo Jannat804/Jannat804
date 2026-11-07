@@ -5,9 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/୨୧-HELLO%20THERE%20୨୧-CDB4F6?style=for-the-badge"/>
+  <img src="./images/coding-room.png" width="650"/>
+</p>
+
+<p align="center">
+  <b>Software Engineering Student @ FAST-NUCES</b>
   <br>
-  <i>♡ A little world of code, creativity & lavender dreams ♡</i>
+  C++ • Python • Web Development • Data Structures
 </p>
 
 <p align="center">
